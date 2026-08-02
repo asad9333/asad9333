@@ -8,9 +8,9 @@
 ![University](https://img.shields.io/badge/KFUEIT-Pakistan-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Pakistan-8B5CF6?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://asad9333.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-15a958388/)
+[![Email](https://img.shields.io/badge/Email-4338CA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masadbaloch9372@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-312E81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad9333)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asad9333&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
@@ -251,10 +251,10 @@ Designs and ships complete production-style systems end-to-end across web, mobil
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](#)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](#)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](#)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](#)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)
 
 </div>
 
@@ -326,10 +326,10 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-D93025?style=for-the-badge&logo=gmail&logoColor=white)](mailto:masadbaloch9372@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-asad-15a958388/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/asad9333)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://asad9333.github.io/Portfolio/)
 
 </div>
 
