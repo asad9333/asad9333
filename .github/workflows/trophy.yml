@@ -28,7 +28,7 @@ jobs:
           no-frame: true
           margin-width: 15
           max-cols: 7
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TROPHY_TOKEN }}
 
       - name: Commit and push
         run: |
