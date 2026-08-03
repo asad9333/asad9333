@@ -277,7 +277,7 @@ Designs and ships complete production-style systems end-to-end across web, mobil
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=asad9333&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7)
+![Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=asad9333&theme=algolia&no-frame=true&no-bg=true&margin-w=15&column=7)
 
 </div>
 
