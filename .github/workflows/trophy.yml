@@ -22,12 +22,12 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: asad9333
-          output_path: trophy.svg
+          file: trophy.svg
           theme: algolia
+          no-background: true
           no-frame: true
-          no-bg: true
-          margin-w: 15
-          column: 7
+          margin-width: 15
+          max-cols: 7
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push
