@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Asad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20AI-Integrated%20Web%20%26%20Mobile%20Platforms&descAlignY=54&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Asad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20Building%20AI-Integrated%20Platforms&descAlignY=54&descSize=16)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Laravel+%2B+FastAPI+%2B+AI-Powered+Systems;Full-Stack+Developer+%7C+Laravel%2C+Python%2C+Flutter;Final-Year+CS+Student+%40+KFUEIT" alt="Typing SVG" /></a>
 
