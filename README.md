@@ -273,15 +273,6 @@ Designs and ships complete production-style systems end-to-end across web, mobil
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-![Trophies](trophy.svg)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
