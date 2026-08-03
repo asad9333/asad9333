@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Asad%20|%20Software%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Full%20Stack%20%7C%20Product%20Engineering&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Muhammad%20Asad&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Building%20AI-Integrated%20Web%20%26%20Mobile%20Platforms&descAlignY=54&descSize=16)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Full-Stack+Systems;Laravel+%2B+FastAPI+%2B+AI+Automation;Final-Year+CS+Student+%40+KFUEIT;Open+to+Remote+Roles+%E2%80%94+UAE+%2F+Qatar" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Laravel+%2B+FastAPI+%2B+AI-Powered+Systems;Full-Stack+Developer+%7C+Laravel%2C+Python%2C+Flutter;Final-Year+CS+Student+%40+KFUEIT" alt="Typing SVG" /></a>
 
 ![Academic](https://img.shields.io/badge/B.Sc.-Computer%20Science-6D28D9?style=for-the-badge&logo=studyverse&logoColor=white)
 ![University](https://img.shields.io/badge/KFUEIT-Pakistan-4C1D95?style=for-the-badge&logo=googlescholar&logoColor=white)
@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** and final-year **Computer Science** student at **KFUEIT, Pakistan**, building production-grade systems independently rather than academic-only projects. I work across the entire stack — web, mobile, desktop, and AI — designing systems that solve real operational problems, not just demo well.
+I'm a **Full-Stack Developer** building AI-integrated web and mobile platforms, and a final-year **Computer Science** student at **KFUEIT, Pakistan**. I build production-grade systems independently rather than academic-only projects — spanning web, mobile, desktop, and AI — designing systems that solve real operational problems, not just demo well.
 
 - 🧠 **AI/ML Engineering** — multi-model AI pipelines, fallback chains, intelligent matching engines, generative design systems
 - ⚙️ **Full-Stack Development** — Laravel, FastAPI, Flutter, C# .NET, PHP, Three.js
